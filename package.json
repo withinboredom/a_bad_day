@@ -1,0 +1,19 @@
+{
+  "name": "a_bad_day",
+  "version": "1.0.0",
+  "description": "An example of a bad day",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/withinboredom/a_bad_day.git"
+  },
+  "author": "Rob Landers <landers.robert@gmail.com>",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/withinboredom/a_bad_day/issues"
+  },
+  "homepage": "https://github.com/withinboredom/a_bad_day#readme"
+}
