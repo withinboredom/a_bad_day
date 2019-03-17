@@ -6,5 +6,7 @@ function takePayment() {
 
 
 
+
+    authorizeAndCaptureFunds();
     return true;
 }
